@@ -1,10 +1,3 @@
-> **WARNING**: This project is no longer actively maintained. Since TLS 1.3
-> related settings are not applied to this config, so this project is highly
-> likely to be outdated soon.
->
-> I have changed my personal homepage's web server into [Caddy]. Take a look at
-> my [Caddyfile] if you are interested.
-
 nginx.conf
 ========
 Recognizing [Kerchhoffs's principle], I hereby publish my own nginx
